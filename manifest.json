@@ -1,0 +1,38 @@
+{
+  "name": "OtakBulus",
+  "short_name": "OtakBulus",
+  "start_url": "https://otakbulus.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-SVsGAdcZ5M8/Xg85xsA32MI/AAAAAAAABS8/fEA5v9QmIuI7nb8EpGF-J8slmZPHrq1RwCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UlJnXB0tez4/Xg85ygJWzII/AAAAAAAABTA/rgLd__s1EkosJkAYpNSZciCnpdbpJkZyACLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jsTDnbuJ5RE/Xg85zAMN4dI/AAAAAAAABTE/b-yxZqo39gQS-peH0sfc75jh5_GCRZWvACLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ESwXzkJG2t8/Xg85xkXbayI/AAAAAAAABS0/IB4XIw7LofEGQgAWTas3inhJmMlmOdXIgCLcBGAsYHQ/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qByyE22xy3U/Xg86RLToKvI/AAAAAAAABTU/5b-jS8agakUwClGIoRJ-I3R-rSLo3I8ZwCLcBGAsYHQ/s1600/otakbulus-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8pI0LrPpgnM/Xg85xgAVmcI/AAAAAAAABS4/W7yw-FXan40FYRW1Q4HjxLa4JzRk-klgwCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6behrZhgb8M/Xg86RaOwZnI/AAAAAAAABTY/tvhJkB7ylnA_fGT5OUv22ZNZXq7PQ5O9wCLcBGAsYHQ/s1600/otakbulus-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
